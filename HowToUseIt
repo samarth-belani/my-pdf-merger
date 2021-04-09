@@ -1,0 +1,14 @@
+To use it in linux or mac mahinces:
+
+In TERMINAL
+{if pip3 is not installed}Install pip3 by 'sudo apt install python3-pip' 
+{if PyPDF2 is not installed}Type 'pip3 install PyPDF2'
+Type 'python3 merger.py <name of your pdf.pdf>'
+
+
+To use it in Windows mahinces:
+
+Is CMD 
+Install python3 by google and install it
+{if PyPDF2 is not installed}Type 'pip install PyPDF2'
+Type 'python merger.py <name of your pdf.pdf>'
