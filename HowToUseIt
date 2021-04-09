@@ -1,3 +1,5 @@
+COPY 'merge.py' in folder where your pdf are there
+
 To use it in linux or mac mahinces:
 
 In TERMINAL
